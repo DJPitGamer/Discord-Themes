@@ -1,0 +1,31 @@
+/**
+ * @name Distorted DarkLord
+ * @author PitGamer1909
+ * @version 1.0.0
+ * @description A theme i made for Distorted DarkLord
+ * @source https://github.com/DJPitGamer/Discord-Themes/tree/main/Pages
+ */
+
+ @import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+ @import url('https://raw.githubusercontent.com/DJPitGamer/Discord-Themes/main/Pages/main.css');
+
+ :root{
+    :root{
+        --background: url('https://cdn.discordapp.com/attachments/1237477990410227787/1245823166476193872/artworks-XndAyxyg35jtKfBT-lMpRDQ-t240x240_1_face26-gkgTLzAKv-transformed.jpeg?ex=6690343d&is=668ee2bd&hm=811fd9b001e1552d1a6f92b8c4b21392456e7e8fa8ea46f0ae04d951b5751cc6&');
+        --activetext-colour: white;
+    
+        --primary1-colour: red;
+        --primary2-colour: rgba(255,0,0,0.5);
+        --primary3-colour: rgba(100,0,0,0.6);
+    
+        --secondary1-colour: rgba(50,50,50,0.3);
+        --secondary2-colour: rgba(100,100,100,0.5);
+        --secondary3-colour: rgba(0,0,0,0.5);
+    
+        --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+        --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+        --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+        --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+        --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    }
+ }
