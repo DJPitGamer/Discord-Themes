@@ -2,12 +2,12 @@
     --background: url('https://cdn.discordapp.com/attachments/1237477990410227787/1260880416718458923/Subtronicswallpaper1.jpg?ex=6690ede5&is=668f9c65&hm=d0c8e9489b5ac8f33a57a4bffb5eee2a7d18e79e8130ffc6e77edcf30f37cd0f&');
     --activetext-colour: white;
 
-    --primary1-colour: red;
-    --primary2-colour: rgba(255,0,0,0.5);
-    --primary3-colour: rgba(100,0,0,0.6);
+    --primary1-colour: #00BFFF;
+    --primary2-colour: rgba(0,191,255,0.5);
+    --primary3-colour: rgba(0,100,200,0.6);
 
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary1-colour: rgba(30,30,30,0.3);
+    --secondary2-colour: rgba(60,60,60,0.5);
     --secondary3-colour: rgba(0,0,0,0.5);
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
