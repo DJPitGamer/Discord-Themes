@@ -888,6 +888,25 @@ The 2 items above are not owned by me, They go to there respected owners
    #app-mount .wordmark_a934d8 {top: 3.3px;}
    #app-mount .winButton_a934d8 {top: 2px;}
 
+   #app-mount .botText_a02df3 {
+    visibility: hidden;
+   }
+/* later */
+   #app-mount .childWrapperNoHoverBg_f90abb {}
+
+   #app-mount .botText_a02df3::after {
+    content: "Bot";
+    visibility: visible;
+    display: block;
+    position: absolute; /* Ensure the new text appears in the correct position */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center; /* Center the text if needed */
+    line-height: inherit;
+   }
+   
    ::selection {
    background-color: #ff0000; /* Höllisch roter Hintergrund */
    color: #000000;            /* Schwarze Textfarbe */
