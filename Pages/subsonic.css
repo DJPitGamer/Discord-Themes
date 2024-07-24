@@ -1,0 +1,32 @@
+/**
+* @name Subsonic
+* @author V1K1ngK2
+* @version 1.0.1
+* @description A theme Created for Disterted Darlord's wish
+* @source https://github.com/DJPitGamer/Discord-Themes/tree/main/Pages
+* @invite https://discord.gg/JQY6KyNyE3
+*/
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+ @import url('https://raw.githack.com/DJPitGamer/Discord-Themes/main/Pages/main1.css');
+
+ :root{
+    :root{
+        --activetext-colour: white;
+        --background: url('http://serienzone.bplaced.net/IMG/Subtronicswallpaper1.jpg');
+        --primary1-colour: #00BFFF; /* Deep Sky Blue */
+        --primary2-colour: rgba(0,191,255,0.5); /* Semi-transparent Deep Sky Blue */
+        --primary3-colour: rgba(0,100,200,0.6); /* Darker Semi-transparent Deep Sky Blue */
+
+        --secondary1-colour: rgba(30,30,30,0.3); /* Dark Grey with low opacity */
+        --secondary2-colour: rgba(60,60,60,0.5); /* Dark Grey with medium opacity */
+        --secondary3-colour: rgba(0,0,0,0.5); /* Black with medium opacity */
+
+        --transparency-1: linear-gradient(to right, rgba(0,191,255,0.3), rgba(0,191,255,0.3)); /* Light Blue Gradient */
+        --transparency-2: linear-gradient(to right, rgba(0,191,255,0.3), rgba(0,191,255,0.3)); /* Light Blue Gradient */
+        --transparency-3: linear-gradient(to right, rgba(0,191,255,0.3), rgba(0,191,255,0.3)); /* Light Blue Gradient */
+        --transparency-4: linear-gradient(to right, rgba(0,191,255,0.3), rgba(0,191,255,0.3)); /* Light Blue Gradient */
+        --transparency-5: linear-gradient(to right, rgba(0,191,255,0.3), rgba(0,191,255,0.3)); /* Light Blue Gradient */
+
+    }
+ }
