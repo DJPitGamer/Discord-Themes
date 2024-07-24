@@ -890,13 +890,13 @@ The 1 item above are not owned by me, They go to there respected owners
    #app-mount .wordmark_a934d8 {top: 3.3px;}
    #app-mount .winButton_a934d8 {top: 2px;}
 
-   #app-mount .botText_a02df3 {
+   #app-mount .botText_a9e77f {
     visibility: hidden;
    }
 /* later */
    #app-mount .childWrapperNoHoverBg_f90abb {}
 
-   #app-mount .botText_a02df3::after {
+   #app-mount .botText_a9e77f::after {
     content: "Bot";
     visibility: visible;
     display: block;
