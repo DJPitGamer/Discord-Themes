@@ -877,8 +877,9 @@ The 1 item above are not owned by me, They go to there respected owners
        height: 30px;
        margin: 0px;
    }
+/*new version cuase of fixxing */
    #app-mount .typeWindows_a934d8:after {
-       content: "Subsonic v1.0.0 By V1K1ngK2";
+       content: "Subsonic v1.0.1 By V1K1ngK2";
        color: rgb(255,255,255,0.5);
        font-weight: 500;
 
