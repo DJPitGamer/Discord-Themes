@@ -1,6 +1,6 @@
 :root{
-    /*Themes*/
-    --background: url('https://cdn.discordapp.com/attachments/1237477990410227787/1260880416718458923/Subtronicswallpaper1.jpg?ex=66923f65&is=6690ede5&hm=781f1db28a7ecdffc707497a110d4e676a4de32b95b1a0285565e6f044cc0c46&');
+    /*Theme Patch again*/
+    --background: url('https://cdn.discordapp.com/attachments/1237477990410227787/1260880416718458923/Subtronicswallpaper1.jpg?ex=66c063e5&is=66bf1265&hm=2f67f6ab305f26e7fa710316ec9cbdc0ef0395deff0b6cbc759b95f6328ef5e2&');
     
     --activetext-colour: white;
 
@@ -29,7 +29,7 @@ The 1 item above are not owned by me, They go to there respected owners
 */
 
 /*--------------------------------------------------------*/
-#app-mount {
+#appMount_ea7e65 {
    background: var(--background-image);
 }
 
